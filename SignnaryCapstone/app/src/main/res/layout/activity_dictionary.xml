@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/topmenu"
+        android:layout_width="426dp"
+        android:layout_height="308dp"
+        app:srcCompat="@drawable/circle"
+        tools:layout_editor_absoluteX="-8dp"
+        tools:layout_editor_absoluteY="-133dp" />
+
+    <Button
+        android:layout_width="104dp"
+        android:layout_height="95dp"
+        android:background="@drawable/cengkok"
+        tools:layout_editor_absoluteX="100dp"
+        tools:layout_editor_absoluteY="282dp" />
+
+    <Button
+        android:layout_width="104dp"
+        android:layout_height="95dp"
+        android:background="@drawable/cengkok"
+        tools:layout_editor_absoluteX="213dp"
+        tools:layout_editor_absoluteY="282dp" />
+
+    <Button
+        android:layout_width="214dp"
+        android:layout_height="86dp"
+        android:background="@drawable/cengkok"
+        tools:layout_editor_absoluteX="103dp"
+        tools:layout_editor_absoluteY="393dp" />
+
+    <Button
+        android:layout_width="214dp"
+        android:layout_height="86dp"
+        android:background="@drawable/cengkok"
+        tools:layout_editor_absoluteX="103dp"
+        tools:layout_editor_absoluteY="489dp" />
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
